@@ -14,4 +14,22 @@ This project is a clone of Airbnb's Homepage feature, designed as a web applicat
 - **CSS**: Styled with modern CSS techniques for layout and design.
 - **React Router**: Handles routing to different parts of the application.
 
+### Prerequisites
+
+This project uses npm as a package manager. If you don't have npm installed, you can install it with this command:
+
+```sh
+npm install npm@latest -g
+```
+### Installation
+git clone https://github.com/anirxdh/Airbnb-HomePageClone.git
+cd Airbnb-HomePageClone
+npm install
+npm start
+
+
+This runs the app in the development mode. Open http://localhost:3000 to view it in the browser. The page will reload if you make edits.
+
+
+
 
