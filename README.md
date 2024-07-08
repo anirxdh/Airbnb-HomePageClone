@@ -45,6 +45,7 @@ npm start
 
 
 This runs the app in the development mode. Open http://localhost:3000 to view it in the browser. The page will reload if you make edits.
+If you have any queries or doubts, Feel free to contact me at anirudhvasudevan11@gmail.com
 
 
 
