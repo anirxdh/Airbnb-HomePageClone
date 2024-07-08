@@ -1,4 +1,4 @@
-**# Airbnb Homepage Clone
+**# Airbnb Homepage Clone #**
 
 This project is a clone of Airbnb's Homepage feature, designed as a web application using React. It includes various UI components that users can interact with to browse and book unique activities led by hosts around the world, all without leaving home.
 
