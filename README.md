@@ -22,10 +22,26 @@ This project uses npm as a package manager. If you don't have npm installed, you
 npm install npm@latest -g
 ```
 ### Installation
+
+Clone the repository
+```sh
 git clone https://github.com/anirxdh/Airbnb-HomePageClone.git
+```
+
+Navigate to the project directory
+```sh
 cd Airbnb-HomePageClone
+```
+
+Install dependencies
+```sh
 npm install
+```
+
+Start the development server
+```sh
 npm start
+```
 
 
 This runs the app in the development mode. Open http://localhost:3000 to view it in the browser. The page will reload if you make edits.
